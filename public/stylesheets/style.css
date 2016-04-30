@@ -1,8 +1,8 @@
-body {
-  padding: 50px;
-  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+.container {
+  margin: 30px;
 }
 
-a {
-  color: #00B7FF;
+#googleMap {
+  width: 500px;
+  height: 380px;
 }
